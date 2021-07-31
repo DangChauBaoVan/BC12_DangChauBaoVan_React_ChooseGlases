@@ -1,0 +1,27 @@
+.glassesItem{
+    cursor: pointer;
+    justify-content: center;
+}
+.glassesItem:hover{
+    background-color: rgba(255, 192, 203, 0.568);
+    
+}
+
+#card-text h5 {
+    color:pink;
+}
+#card-text h5 .desc{
+    color:black;
+}
+#modelImg{
+    position: relative;
+}
+#wearGlasses{
+    position: absolute;
+    top: 15%;
+    left: 18%;
+    height: 65px;
+    width: 200px;
+    opacity: .7;
+    text-align: center;
+}
